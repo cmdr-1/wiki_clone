@@ -1,0 +1,22 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block body %}
+    <h1>Add a new entry to this Wiki:</h1>
+    
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" name="entryTitle" placeholder="Entry Title" class="form-control">
+        <br>
+        <br>
+        <textarea name="bodyText" placeholder="Body Text" wrap="soft" rows="30" class="form-control"></textarea>
+        <br>
+        <br>
+        <input class="btn btn-primary" type="submit" value="Create Page">
+    </form>
+
+
+{% endblock %}
