@@ -4,7 +4,7 @@ A tutorial on Django views and other fundamentals.
 This was the first project for CS50W - Web Development with Python and JavaScript. The project page details can all be found [here](https://cs50.harvard.edu/web/2020/projects/1/wiki/).
 I've gone ahead and pasted the relevant sections below:
 
-Video Demonstration: https://www.youtube.com/watch?v=xAyQiJ9D-yY&feature=youtu.be
+Video Demonstration: [Link](https://www.youtube.com/watch?v=xAyQiJ9D-yY&feature=youtu.be)
 
 <h1>Wiki</h1>
 
