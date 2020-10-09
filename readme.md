@@ -9,7 +9,8 @@ Video Demonstration: [Link](https://www.youtube.com/watch?v=xAyQiJ9D-yY&feature=
 <h1>Wiki</h1>
 
 Design a Wikipedia-like online encyclopedia.
-Background
+
+## Background
 
 Wikipedia is a free online encyclopedia that consists of a number of encyclopedia entries on various topics.
 
